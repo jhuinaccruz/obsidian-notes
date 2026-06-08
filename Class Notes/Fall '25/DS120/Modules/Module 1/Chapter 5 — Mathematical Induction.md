@@ -1,0 +1,4 @@
+__Mathematical Induction__ (Principle of Mathematical Induction (PMI)): Following the phenomenon of "falling dominoes", a proof where a claim is tried as a series of claims, one for each n. The first statement in the sequence is proven, then the one after that is proven, such that one can conclude all statements are true. To prove some function P(n) is always true:
+1. First prove P(1) (or some other trivial base case is true)
+2. Then assume P(n) is true for some natural number k such that P(k) is true as well
+3. Finally prove P(k+1) is true as well, finally proving P(n) is true for all natural numbers

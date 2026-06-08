@@ -1,0 +1,47 @@
+- [ ] accusonus (ERA vocal processor)
+- [ ] AnalogObsession
+	- [ ] Buster
+	- [ ] Distox
+- [ ] Antares (Auto Tune)
+- [ ] Arturia
+	- [x] Analog Lab V
+	- [ ] DX7 V
+	- [ ] Efx Fragments
+	- [ ] Matrix-12 V2
+	- [ ] Mini V3
+	- [ ] Pigments
+- [x] Audiomodern (Panflow)
+- [ ] Melodyne
+- [ ] Spectralayers
+- [ ] IzoTope
+	- [ ] Ozone
+	- [ ] RX
+	- [ ] Trash
+	- [x] Vinyl
+	- [x] Vocal Doubler
+- [ ] Kazrog Avalon VT-747SP
+- [x] Lese Codec
+- [ ] Kontakt 8
+- [ ] Archetype Tim Henson
+- [ ] Noise Engineering
+	- [ ] Ruina
+	- [ ] Sine Vereor
+	- [ ] Virt Vereor
+- [ ] Orchestral Tools
+	- [ ] SINE Player
+- [ ] Redwirez
+	- [ ] mixIR3
+- [ ] Soundly Place it
+- [x] Spitfire Audio
+- [ ] BBC Symphony Orchestra
+- [ ] KirkenhoffEQ
+- [ ] Tone Empire
+	- [ ] GoliathV2
+- [ ] Toontrack
+	- [ ] Superior Drummer 3
+- [ ] Prisma
+- [ ] Valhalla DSP, LLC
+- [x] Voxengo
+	- [ ] SPAN
+	- [ ] Stereo Touch
+- [ ] WS Voxillion

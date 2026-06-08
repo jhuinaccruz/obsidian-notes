@@ -1,0 +1,19 @@
+- [ ] finish samples
+	- [ ] splicing 
+		- [ ] 1
+		- [ ] 2
+		- [ ] 3
+	- [ ] placement
+		- [ ] verse 1
+		- [ ] chorus 1
+		- [ ] bridge/solos
+		- [ ] verse 2
+		- [ ] chorus 2
+		- [ ] pre-bridge
+		- [ ] finale
+- [ ] finish orchestra
+	- [ ] harmonies
+	- [ ] sidechaining
+- [ ] vocals
+	- [ ] compression/smoothing out
+- [ ] 

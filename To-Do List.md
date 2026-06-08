@@ -1,0 +1,25 @@
+- [ ] Lectures
+	- [ ] DS121 (Lecture 12)
+	- [ ] PS336 (Lecture 12)
+- [ ] Music
+	- [ ] Sweet09 (ip)
+		- [x] Take notes
+		- [ ] Set presets for Thursday/Friday
+	- [ ] Mariachi Terrier
+		- [ ] Finish Sabor a Mi
+		- [ ] Begin transcription of Me Gustas Mucho
+	- [ ] March Thing
+		- [ ] Notes
+		- [ ] Learn songs
+- [ ] Textbook Readings
+	- [ ] PS339
+	- [ ] PS336
+		- [ ] Chapter 5
+		- [ ] Study
+		- [ ] Chapter 6
+		- [ ] Studies
+	- [ ] PS361
+		- [ ] Assigned Readings
+- [ ] EMT
+	- [ ] Study
+	- [ ] Set Date

@@ -1,0 +1,21 @@
+__Sorting Algorithms__:
+- Bubble Sort: Swap adjacent elements if they're in the wrong order over and over starting from the leftmost element
+	- Time: `O(n^2)`
+	- Space: `O(1)`
+	- Stable
+	- Best Case: `O(n)`
+- Insertion Sort: Build sorted portion one at a time starting from the leftmost element
+	- Time: `O(n^2)`
+	- Space: `O(1)`
+	- Stable
+	- Best Case: `O(1)`
+- Merge Sort: Divides collection of elements in half repeatedly until in groups of 1 or 2, then merges them together recursively
+	- Time: `O(n log n)`
+	- Space: `O(n)`
+	- Stable
+	- Best case: `O(n log n)`
+- Quick Sort: Partitions an array based on an arbitrary pivot until groups of 1, then merges them together
+	- Time: `O(n log n)`, worst case of `O(n^2)`
+	- Space: `O(log n)`
+	- Unstable
+	- Best case: `O(n log n)`

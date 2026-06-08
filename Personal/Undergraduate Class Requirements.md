@@ -1,0 +1,131 @@
+- [x] PS101 - General Psychology
+- [x] DS110
+- [ ] Principle Classes
+	- [ ] Psychology
+		- [x] PS231 - Physiological Psychology
+		- [x] Group A (2)
+			- [ ] PS222: Perception and Behavior
+			- [ ] PS234: Psychology Learning
+			- [ ] PS333: Drugs and Behavior 
+			- [x] PS336: Introduction to Cognitive Psychology
+			- [ ] PS337: Memory Systems of the Brain
+			- [ ] PS338: Neuropsychology
+			- [x] PS339: Introduction to Cognitive Neuroscience
+		- [x] Group B (2)
+			- [x] PS241: Developmental Psychology
+			- [ ] PS251: Psychology of Learning
+			- [x] PS261: Social Psychology
+			- [ ] PS370: Psychology of the Family
+			- [x] PS371: Psychopathology
+		- [x] One Experimental Course:
+			- [ ] PS323
+			- [ ] PS324
+			- [ ] PS326
+			- [ ] PS327
+			- [ ] PS328
+			- [ ] PS328
+		- [x] Statistics Requirement (PS211)
+		- [ ] Three Electives
+			- [x] PS361
+			- [ ] PS4
+			- [ ] PS4
+			- [ ] 
+	- [ ] Data Science
+		- [x] Foundations
+			- [x] DS110: Introduction to Data Science
+			- [ ] DS120: Foundations of DS I
+			- [x] DS121: Foundations of DS II
+			- [ ] DS122: Foundations of DS III
+		- [ ] Core (at least 3)
+			- [x] DS210: Programming
+			- [ ] DS310: Data Mechanics
+			- [ ] MA214: Statistics
+			- [x] DS320: Algorithms
+			- [ ] DS340: Machine Learning
+			- [ ] DS380: Ethical & Social Implications
+		- [ ] Electives (at least three of one track, one of every subject within said track, and any one other within said track)
+			- [ ] Methodology Track
+				- [ ] Advanced Data Science Methods
+					- [ ] CS507: Optimization in Computing and Machine Learning
+					- [ ] CS530: Advanced Algorithms
+					- [ ] CS531: Advanced Optimization Algorithms
+					- [ ] CS535: Advanced Data Mining
+					- [ ] EC524: Optimization Theory and Methods
+					- [ ] EC533: Advanced Discrete Mathematics
+					- [ ] MA416: Analysis of Variance
+					- [ ] MA539: Methods of Scientific Computing
+					- [ ] MA584: Multivariate Statistical Analysis
+					- [ ] MA589: Computational Statistics
+				- [ ] Scalable and Trustworthy DS and AI
+					- [ ] DS563: Algorithmic techniques for Taming Big Data
+					- [ ] CS528: Cloud Computing
+					- [ ] CS561: Data Systems Architecture
+					- [ ] CS562: Advanced Database Applications
+					- [ ] EC521: Cybersecurity
+					- [ ] EC528: Cloud Computing
+				- [ ] Applied and Use-Inspired DS and AI
+					- [ ] CS440: Intro. to Artificial Intelligence
+					- [ ] CS505: Intro. to Natural Language Processing
+					- [ ] EC523: Deep Learning
+					- [ ] MA415: Data Science in R
+			- [ ] In The Field
+				- [ ] Analytics In The Field
+					- [ ] DS549: Spark! Machine Learning X-Lab Practicum
+					- [ ] EC508: Econometrics
+					- [ ] EE375: Intro. to Quantitative Environmental Modeling
+					- [ ] EE516: Multivariate Analysis for Geographers
+					- [ ] MA415: Data Science in R
+					- [ ] MA539: Methods of Scientific Computing
+					- [ ] QM222: Modeling Business Decisions and Market Outcomes
+					- [ ] FE459: Computational Techniques for Finance
+				- [ ] Algorithms In The Field
+					- [ ] DS519: Spark! Software Engineering X-Lab Practicum
+					- [ ] CS506: Computational Tools for Data Science
+					- [ ] MA569: Optimization Methods of Operational Research
+					- [ ] EC527: High Performance Programming w/ Multicore and GPUs
+					- [ ] BE562: Computational Biology: Genomes, Networks, Evolution
+					- [ ] XC475: Spark! Fellowship
+					- [ ] BA476: Machine Learning for Business Analytics
+					- [ ] BA472: Business Experiments and Causal Methods
+				- [ ] Data Science In the Field
+					- [ ] DS537: Data Science for Conversation Decisions
+					- [ ] DS539: Spark! Data Science Practicum
+					- [ ] BI577: Quantitative Approaches in Molecular Biology
+					- [ ] EC507: Statistics for Econometrics
+					- [ ] PO399: Data Science for Politics
+					- [ ] PO599: Data Science for Politics
+					- [ ] BA305: Business Decision-Modeling with Datas
+		- [ ] Practicum (one of the following)
+			- [ ] A supervised project pursued as part of a practicum course
+				- [ ] DS519: Spark! Software Engineering X-Lab Practicum
+				- [ ] DS539: Spark! Data Science Practicum
+				- [ ] DS549: Spark! Machine Learning X-Lab Practicum
+			- [ ] A supervised project (approved prior to the start of the semester) pursued as part of an internship or directed study course
+				- [ ] DS490
+- [ ] HUB
+	- [x] Philosophical Inquiry and Life's Meanings
+	- [ ] Aesthetic Exploration
+	- [x] Historical Consciousness
+	- [x] Scientific and Social Inquiry
+	- [x] Quantitative Reasoning I
+	- [x] Quantitative Reasoning II
+	- [x] The Individual in Community
+	- [x] Global Citizenship and Intercultural Literacy I
+	- [ ] Global Citizenship and Intercultural Literacy II
+	- [ ] Ethical Reasoning
+	- [x] First-Year Writing Seminar
+	- [x] Writing Research and Inquiry
+	- [ ] Writing-Intensive Course I
+	- [ ] Writing-Intensive Course II
+	- [x] Oral and/or Signed Communication
+	- [x] Digital/Media Expression
+	- [x] Critical Thinking I
+	- [x] Critical Thinking II
+	- [x] Research and Information Literacy I
+	- [ ] Research and Information Literacy II
+	- [x] Teamwork Collaboration I
+	- [ ] Teamwork Collaboration II
+	- [x] Creativity/Innovation I
+	- [x] Creativity/Innovation II
+
+Seminar on Sociology of Families
