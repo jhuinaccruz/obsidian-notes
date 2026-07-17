@@ -36,3 +36,10 @@ The experience should feel exciting and human—not corporate, cluttered, elitis
 4. Communication practices? How do we want to communicate with each othe? Meetings? Group Chats? Times?
 5. Timeline!
 6. Division of labor? What does everybody want to do?
+
+## Notes
+
+__Goal__:
+- Build a website:
+  - Profile page?
+  - Feed?
