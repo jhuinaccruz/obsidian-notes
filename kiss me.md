@@ -1,0 +1,24 @@
+guitars:
+- Rhythm
+	- 01
+		- Deluxe Reverb
+			- Amp
+				- Drive 3.1
+				- Bass 4.4
+				- Mid 3.9
+				- Treble 6.0
+				- Presence 4.0
+				- Ch Vol 10.0
+				- Master 4
+				- Sag 6.4
+				- Hum 0.9
+				- Ripple 0.6
+				- Bias 0.8
+				- Bias X 4.4
+			- Cab
+				- Mic 47 Condenser FET
+				- Center
+				- Distance 8.00"
+				- Angle 0
+				- No low/high cut
+				- Level 0.0

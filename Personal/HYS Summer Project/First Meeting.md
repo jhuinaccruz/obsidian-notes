@@ -20,7 +20,7 @@ __Design Principles__:
 - Welcoming
 - Organized
 - Community-first
-= Culturally curious
+- Culturally curious
 - Expressive
 - Accessible
 - Credible
