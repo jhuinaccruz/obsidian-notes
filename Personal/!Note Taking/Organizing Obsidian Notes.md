@@ -6,10 +6,13 @@
 *Every note should have these three properties*
 - __Created__: Date created
 - __Kind__: What *kind* of note is it?
-	- *Concept*: Explains a concept
+	- *Reference*: Use
 	- *Lecture*: Explains a lecture
 	- *Brainstorm*: A nicer way of saying word vomit
+	- *Study*: Useful when up
 - __Domain__: What broad category of study does this belong to?
+	- e.g. Psychology, Data Science/Coding, Music, etc.
+- __Last Updated__: Last time the notes were updated
 
 *Some categories more specific to certain notes can include things like*
 - __State__: How do I feel about what I am writing down?

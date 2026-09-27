@@ -98,4 +98,4 @@ __When Thinking on Paper__:
 - Limit word count through paraphrasing and key words
 - Use limitless canvas rather than traditional page limitations
 - Use drawings as anchors for concepts in place of word-based explanations
-- Move concepts around in the canvas to avoid limitations based on where you place conceptsf
+- Move concepts around in the canvas to avoid limitations based on where you place concepts

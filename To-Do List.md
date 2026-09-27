@@ -1,25 +1,39 @@
-- [ ] Lectures
-	- [ ] DS121 (Lecture 12)
-	- [ ] PS336 (Lecture 12)
+- [ ] School
+	- [ ] CL305
+		- [ ] Readings
+		- [x] Choose topic to present
+		- [ ] Prepare for quiz
+	- [ ] MA415
+		- [ ] Readings
+		- [ ] Catch up on lectures (5-7)
+	- [ ] DS310
+		- [ ] Notes on Lectures 4-5
+		- [ ] Homework 3
+	- [ ] PS472
+		- [ ] Readings
+		- [ ] Three articles for presentation
+	- [ ] PS473
+		- [ ] Readings
 - [ ] Music
-	- [ ] Sweet09 (ip)
-		- [x] Take notes
-		- [ ] Set presets for Thursday/Friday
-	- [ ] Mariachi Terrier
-		- [ ] Finish Sabor a Mi
-		- [ ] Begin transcription of Me Gustas Mucho
-	- [ ] March Thing
-		- [ ] Notes
-		- [ ] Learn songs
-- [ ] Textbook Readings
-	- [ ] PS339
-	- [ ] PS336
-		- [ ] Chapter 5
-		- [ ] Study
-		- [ ] Chapter 6
-		- [ ] Studies
-	- [ ] PS361
-		- [ ] Assigned Readings
+	- [ ] Mariachi Terriers
+		- [ ] Boston Children's Hospital
+			- [ ] Transcribe Piel Canela
+			- [ ] Fix Cien Anos
+			- [ ] Fix La Llorona
+				- [ ] Add solo track
+				- [ ] Add iReal Pro
+		- [ ] Finish Me Gustas Mucho
+		- [ ] Find new song
+			-  female-oriented
+			-  duo?
+				- La Llorona (Gm/Fm)
+	- [ ] Alex
+		- [ ] 100 metres
+			- [ ] Review mix
+				- [ ] Rerecord?
+			- [ ] Get Bruce to record
 - [ ] EMT
 	- [ ] Study
 	- [ ] Set Date
+- [ ] Look for more jobs
+- [ ] ER Bill

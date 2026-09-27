@@ -37,15 +37,45 @@
 ```html
 <a target = "value">Text<\a> <!--Determines whether the link opens in the current space or in another tab>
 ```
+### `class`
+```html
+<selector class = "name"><\selector> <!--Allows for naming of HTML objects-->
+```
 ## CSS
 ```html
 <style>
 	selector {
-		property = value;
+		css_property = css_value;
 		...
+	}
+	.element_name {
+		...
+		}
+<\style>
+```
+### CSS Properties
+```html
+<style>
+	selector {
+		background-color = color_value; /*Colors the background*/
+		color: color_value; /*Colors the object itself*/
+		border: none; /*Gives the object a border (defaults to none)*/
+		height: 1px; /*Determines the overall height of an object (in pixels)*/
+		width: 1px; /*Determines the overall width of an object (in pixels)*/
+		border-radius: 1px; /*Determines the width (radius) of its borders*/
+		cursor: pointer;
 	}
 <\style>
 ```
-##
+### Color Values
+```html
+<style>
+	selector {
+		css_property = rgb(x, y, z);
+		css_property = name_of_color; /*for example red, blue, green, etc. */
+	}
+</style>
+```
+where `x`, `y`, and `z` are the red, blue, and green values that make up a color respectively
 ##
 # CSS
