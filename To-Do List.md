@@ -1,24 +1,32 @@
 - [ ] School
 	- [ ] CL305
 		- [ ] Readings
-		- [x] Choose topic to present
-		- [ ] Prepare for quiz
 	- [ ] MA415
+		- [x] Homework 3
 		- [ ] Readings
-		- [ ] Catch up on lectures (5-7)
+			- [ ] R4DS
+				- [ ] 1
+				- [ ] 9
+				- [ ] 2
+				- [ ] 6
+				- [ ] 12
+				- [ ] 13
+				- [ ] 3
+				- [ ] 9
 	- [ ] DS310
-		- [ ] Notes on Lectures 4-5
-		- [ ] Homework 3
+		- [x] Homework 3
 	- [ ] PS472
 		- [ ] Readings
-		- [ ] Three articles for presentation
+		- [ ] Two articles for presentation
+			- [ ] Summary
 	- [ ] PS473
 		- [ ] Readings
+			- [ ] Make-up summary
 - [ ] Music
 	- [ ] Mariachi Terriers
 		- [ ] Boston Children's Hospital
 			- [ ] Transcribe Piel Canela
-			- [ ] Fix Cien Anos
+			- [x] Fix Cien Anos
 			- [ ] Fix La Llorona
 				- [ ] Add solo track
 				- [ ] Add iReal Pro
@@ -36,4 +44,4 @@
 	- [ ] Study
 	- [ ] Set Date
 - [ ] Look for more jobs
-- [ ] ER Bill
+- [x] ER Bill

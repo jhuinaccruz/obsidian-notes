@@ -10,7 +10,10 @@ library(mdsr) #useful for following through with the mdsr library
 ## `ggplot2`
 ```r
 #creates a plot object
-g <- ggplot(data = dataframe_name, ...)
+g <- ggplot(
+	data = dataframe_name,
+	mapping = ..., #specify dataframe columns to visual plot properties (global)
+	)
 ```
 ### `aes()`
 ```r
@@ -19,18 +22,26 @@ ggplot(data, aes(...)
 
 # many aesthetics can be specified, such as
 
-aes(x = ..., y = ...) #x and y values (columns of the data)
+aes(
+	x = ..., y = ..., #x and y values (columns of data) (positional syntax)
+	x = reorder(x_col, y_col), #reorders the x_col based on the values of y
+	
+	mapping(...), #local mapping of columns to visuals
+	
+	color = column, #ggplot2 creates a color vector based on the datapoints in said column
+	
+	size = n, #increases/decreases the scaling of the graph based on the value of n
+	size = column, #ggplot2 assigns sizes based on the relative values of the dataframe
 
-aes(x = reorder(x_col, y_col) ...) #reorders the x_col based on the values of y
+	label = column, #maps text instead of a dot
 
-aes(color = column) #ggplot2 creates a color vector based on the datapoints in said column
+	x = (reorder(columns...)), #sorts the graph based on the ascending order of the relationship between the columns
+	
+	fill = column, #fills a graph based on the values/breakdown of another column
+	
+	shape = column, #fills
 
-aes(size = n) #increases/decreases the scaling of the graph based on the value of n
-aes(size = column) #ggplot2 assigns sizes based on the relative values of the dataframe
-
-aes(label = column) #maps text instead of a dot
-
-aes(x = (reorder(columns...))) #sorts the graph based on the ascending order of the relationship between the columns
+)
 ```
 ### `coord_trans()`
 ```r
@@ -52,24 +63,53 @@ g + facet_swap(
 	ncol = ... #similar to nrows, subdivisions occur top-down rather than left-right
 	)
 ```
-### Canonical Data Graphics
+### `geom_*`
 #### Univariate Displays
 ##### `geom_histogram()`
 ```r
 g + geom_histogram(
-	binwidth = px_val,
+	binwidth = px_val, #determines bar width
 )
 ```
 ##### `geom_density()`
 ```r
 g + geom_density(
 	adjust = val, #determines the line's smoothness (< 1 being more jagged, > 1 being smoother, defaults to 1)
+	linewidth = val,
+	alpha = val_decimal, #fills in the curve formed by the line (0 being filled, 1 being transparent, defaults to 1)
 	)
 ```
-
 ##### `geom_col()`
+```r
+g + geom_col()
 ```
-
+##### `geom_bar()`
+```r
+g + geom_bar(
+	
+)
+```
+#### Multivariate Displays
+##### `geom_point()`
+```r
+g + geom_point( #
+)
+```
+##### `geom_smooth()`
+```r
+g + geom_smooth(
+	method = regression_model,
+)
+```
+##### `geom_boxplot()`
+```r
+g + geom_boxplot( #creates a boxplot
+	...
+)
+```
+##### `geom_mosaic()`
+```r
+g + geom_mosaic()
 ```
 ### Miscellaneous
 #### `theme()`
@@ -80,8 +120,121 @@ g + theme(
 ```
 #### `labs()`
 ```r
+g + labs(
+	title = "Title string", #title of the plot
+	
+	subtitle = "Subtitle string",
+	
+	x = "x-axis labeling", y = "y-axis labeling",
+	
+	color = "Color Legend Title", shape = "Shape Legend Title",
+	)
 ```
 #### `head()`
 ```r
 head(...) #displays only the first 10 values of a graph
+```
+#### `coord_flip()`
+```r
+coord_flip() #flips the graph sideways
+```
+#### `ggsave()`
+```r
+g + ggsave(filename = "save_file_name")
+```
+## `dplyr`
+```r
+library("dplyr")
+```
+### Main Verbs
+#### `select()`
+```r
+select(data_frame, column_1, column_2,...) #returns a dataframe of only the selected cols
+```
+#### `filter()`
+```r
+filter(data_frame, conditional) #retuns a dataframe of only the specified rows based on the conditional
+```
+#### `mutate()`
+```r
+mutate(data_frame, new_column = ...) #creates a new column in the dataframe
+
+mutate(data_frame, old_column = ...) #changes the values of an existing columns
+```
+#### `...if_else(...%in%...)`
+```r
+mutate(data_frame, column = ifelse(column %in% vector, if_not_value, if_yes_value)) #used to check for specific cases where values should not exist through pattern matching and replacing
+```
+#### `rename()`
+```r
+rename(data_frame, column = ...) #renames an existing column
+```
+#### `arrange()`
+```r
+arrange(data_frame, desc(column_1), column_2, column_3, ...) #sorts a dataframe based on the values in column_1, using the other columns specified as tiebreaks
+
+#note: can also use asc(...) as a way to arrange in ascending order
+```
+#### `summarize()`/ `group_by()`
+```r
+summarize(data_frame, #collapses the dataframe into a single value
+	column_1 = ..., #the following determines which variables (columns) appear in the resulting dataframe
+	column_2 = ...,
+	...
+	
+	)
+
+group_by(data_frame, column) #adds metadata to the dataframe, such that further opreations treat the groups as separate entities within a dataframe, each receiving later operations on a group-by-group basis
+
+#note: summarize and group_by are almost always used together
+
+data_frame |>
+	group_by(column) |> #results in groups of n
+	summarize(...) |> #returns a dataframe with n rows, with m columns as specified in the summarize function
+```
+## `forcats`
+```r
+install.packages(forcats)
+```
+## `ggthemes`
+```r
+library(ggthemes) #offers a colorblind-safe pallete(s)
+```
+## Nesting and Pipe-Forwarding
+```r
+select(
+	filter(
+		mutate(
+			... #hard to read, not recommended
+		)
+	)
+)
+```
+
+```r
+data_frame |>
+	select(...) |>
+	filter(...) |>
+	mutate(...) #better form of chaining long expressions; more readable
+```
+## Basic Operations
+### Arithmetic
+```r
+1 + 1 #addition
+1 - 1 #subtraction
+2 * 1 #multiplication
+4 / 2 #division
+
+sin(pi / 2) #sin/cos/tan/etc. (output in radians)
+```
+### Object Assignment
+```r
+object_name <- ... #assigns object to a variable
+```
+### Vectors
+```r
+vector_name <- c(...)
+
+#can also perform basic arithmetic on vectors
+
 ```

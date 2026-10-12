@@ -213,4 +213,12 @@ TIME --format: hh:mm:ss
 ```sql
 DATA_TYPE(n)
 ```
-##
+## Optimizer
+### `plan()`
+```sql
+plan(query) --returns a "plan" for which SQL will execute for the query
+```
+### `cur.execute()`
+```sql
+cur.execute(plan) --changes the plan for which a query can be executed by
+```

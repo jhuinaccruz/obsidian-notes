@@ -1,0 +1,4 @@
+- [ ] Change drum sound
+	- [ ] Too separate
+	- [ ] Too studio
+- [ ] More live-type sound

@@ -1,6 +1,6 @@
 - [x] PS101 - General Psychology
 - [x] DS110
-- [ ] Principle Classes
+- [x] Principle Classes
 	- [ ] Psychology
 		- [x] PS231 - Physiological Psychology
 		- [x] Group A (2)
@@ -25,10 +25,10 @@
 			- [ ] PS328
 			- [ ] PS328
 		- [x] Statistics Requirement (PS211)
-		- [ ] Three Electives
+		- [x] Three Electives
 			- [x] PS361
-			- [ ] PS4
-			- [ ] PS4
+			- [ ] PS472
+			- [ ] PS473
 			- [ ] 
 	- [ ] Data Science
 		- [x] Foundations
@@ -39,7 +39,7 @@
 		- [ ] Core (at least 3)
 			- [x] DS210: Programming
 			- [ ] DS310: Data Mechanics
-			- [ ] MA214: Statistics
+			- [x] MA214: Statistics
 			- [x] DS320: Algorithms
 			- [ ] DS340: Machine Learning
 			- [ ] DS380: Ethical & Social Implications
@@ -115,7 +115,7 @@
 	- [ ] Ethical Reasoning
 	- [x] First-Year Writing Seminar
 	- [x] Writing Research and Inquiry
-	- [ ] Writing-Intensive Course I
+	- [x] Writing-Intensive Course I
 	- [ ] Writing-Intensive Course II
 	- [x] Oral and/or Signed Communication
 	- [x] Digital/Media Expression
@@ -127,5 +127,3 @@
 	- [ ] Teamwork Collaboration II
 	- [x] Creativity/Innovation I
 	- [x] Creativity/Innovation II
-
-Seminar on Sociology of Families
