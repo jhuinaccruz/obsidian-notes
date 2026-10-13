@@ -6,16 +6,20 @@
 *Every note should have these three properties*
 - __Created__: Date created
 - __Kind__: What *kind* of note is it?
-	- *Reference*: Use
-	- *Lecture*: Explains a lecture
-	- *Brainstorm*: A nicer way of saying word vomit
-	- *Study*: Useful when up
+	- *Reference*: Index/Query of a function/specific piece of knowledge
+	- *Lecture*: Notes from a lecture
+	- *Study*: Analysis of anything personal
+	- *Miscellaneous*: Anything else (needs categorization ASAP)
 - __Domain__: What broad category of study does this belong to?
 	- e.g. Psychology, Data Science/Coding, Music, etc.
+	- __Subdomain__: What topic within the larger domain?
 - __Last Updated__: Last time the notes were updated
 
 *Some categories more specific to certain notes can include things like*
 - __State__: How do I feel about what I am writing down?
-- __Project__: Is this knowledge contributing to a specific product or goal?
-- __Modified__: Date last modified
+	- Use Likert Scale (1-7)
+- __Project__: Is this knowledge contributing to a specific product or goal? If so what?
 - __Action__: What do i need to do next regarding this topic?
+	- *Archive*: Reviewed and used, in other words nothing (mostly for school/study) (==Default==)
+	- *Study*
+	- *Revise*: Unfinished note needs to be finished

@@ -14,6 +14,9 @@ g <- ggplot(
 	data = dataframe_name,
 	mapping = ..., #specify dataframe columns to visual plot properties (global)
 	)
+
+ggplot(data = ...) + 
+	some_geom_function(mapping = aes(...), ...) #general template for ggplot objects
 ```
 ### `aes()`
 ```r
@@ -81,13 +84,11 @@ g + geom_density(
 ```
 ##### `geom_col()`
 ```r
-g + geom_col()
+g + geom_col(...) #similar to geom_bar, except it does not plot stats
 ```
 ##### `geom_bar()`
 ```r
-g + geom_bar(
-	
-)
+g + geom_bar(...) #similar to geom_col, with computed stats of count (height)
 ```
 #### Multivariate Displays
 ##### `geom_point()`
@@ -98,7 +99,7 @@ g + geom_point( #
 ##### `geom_smooth()`
 ```r
 g + geom_smooth(
-	method = regression_model,
+	method = regression_model
 )
 ```
 ##### `geom_boxplot()`
@@ -151,6 +152,16 @@ library("dplyr")
 ```r
 select(data_frame, column_1, column_2,...) #returns a dataframe of only the selected cols
 ```
+##### Helper Functions (`starts_with()`, `ends_with()`, `contains()`, `num_range()`, `between()`)
+```r
+select(data_frame,
+	starts_with("..."), #matches values starting with ...
+	ends_with("..."), #matches values ending with...
+	contains(""), #matches values that contain ...
+	num_range(column_name, n1:n2) #matches values in column_name's n1 through n2
+)
+```
+
 #### `filter()`
 ```r
 filter(data_frame, conditional) #retuns a dataframe of only the specified rows based on the conditional
@@ -226,6 +237,30 @@ data_frame |>
 4 / 2 #division
 
 sin(pi / 2) #sin/cos/tan/etc. (output in radians)
+
+5 %/% 3 #integer division (no remainder/decimals)
+5 %% 3 #modulo
+```
+### Descriptive Statistics
+```r
+mean(...)
+mean(vector < n) #filters values within the function
+
+sum(...)
+
+min(...)
+
+max(...)
+
+#cumulators
+cummean(...) #returns the values of the mean as they increase
+
+cumsum(...)
+
+cummin(...)
+
+cummax(...)
+
 ```
 ### Object Assignment
 ```r
@@ -237,4 +272,26 @@ vector_name <- c(...)
 
 #can also perform basic arithmetic on vectors
 
+```
+## Miscellanous
+### `help()`/`?`
+```r
+help(mpg)
+?mpg #provides documentation for given dataset/function/library
+```
+### `is.na()`
+```r
+is.na(...) #evaluates the argument passed as to whether it contains/is an NA value(s)
+```
+### `na.rm`
+```r
+function_name(na.rm = TRUE) #default argument for most functions, gives an "impossible" value to column value with NA values
+```
+
+### `n()/n_distinct()`
+```r
+summarize(
+	column_name = n() #helper function used in aggregator functions to compute aggregated counts
+	column_name = n_distinct(column) #similar to n() except it counts only unique values of columns
+)
 ```

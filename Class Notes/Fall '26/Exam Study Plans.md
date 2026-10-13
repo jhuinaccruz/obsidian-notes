@@ -24,8 +24,9 @@
 ## CL305 Quiz 4 (55%)
 ## CL305 Quiz 5 ()
 - [x] Readings
-- [ ] Review Questions
+- [x] Review Questions
 ## DS310 Quiz 4
+- [ ] Review Lectures
 ## DS310 Midterm 1
 ## PS473 Exam 1
 ## MA415 Midterm
