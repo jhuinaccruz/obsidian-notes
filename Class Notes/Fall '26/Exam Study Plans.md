@@ -22,7 +22,7 @@
 ## DS310 Quiz 3 (60%)
 - [ ] Lectures 1-8
 ## CL305 Quiz 4 (55%)
-## CL305 Quiz 5 ()
+## CL305 Quiz 5 (83%)
 - [x] Readings
 - [x] Review Questions
 ## DS310 Quiz 4

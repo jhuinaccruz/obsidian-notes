@@ -2,7 +2,7 @@
 	- [ ] CL305
 		- [ ] Readings
 	- [ ] MA415
-		- [x] Homework 3
+		- [ ] Homework 4
 		- [ ] Readings
 			- [ ] R4DS
 				- [ ] 1
@@ -14,7 +14,7 @@
 				- [ ] 3
 				- [ ] 9
 	- [ ] DS310
-		- [x] Homework 3
+		- [ ] Homework 4
 	- [ ] PS472
 		- [ ] Readings
 		- [ ] Two articles for presentation

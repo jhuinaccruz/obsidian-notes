@@ -213,12 +213,21 @@ TIME --format: hh:mm:ss
 ```sql
 DATA_TYPE(n)
 ```
-## Optimizer
-### `plan()`
+## Transactions/Optimizer
+### `CREATE INDEX...ON...`
 ```sql
-plan(query) --returns a "plan" for which SQL will execute for the query
+CREATE INDEX_NAME ON DATAFRAME(column_name) --forces a physical index creation, such that it is in memory ready for use
+
+--otherwise, uses a temporary B-Tree denoted as USE TEMP B-TREE
 ```
-### `cur.execute()`
+### `ANALYZE`
 ```sql
-cur.execute(plan) --changes the plan for which a query can be executed by
+ANALYZE --keyword used to show statistics used by optimizer
+```
+### `START TRANSACTION`/`COMMIT`/`ROLLBACK`
+```sql
+START TRANSACTION;
+	... --perform standard operations
+COMMIT -- commits the standard operations
+ROLLBACK --sends operations to the logging/recovery systems to revert functions
 ```
