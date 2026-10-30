@@ -12,7 +12,8 @@ __min7/IV__:
 - IV7sus4
 
 __maj7__:
-- VImin9/I
+- VImin9
+- viimin7/I
 
 __maj7/V__:
 - add11, 13
@@ -37,3 +38,6 @@ __aug7b9__:
 
 __aug7#9__:
 - min7b13/bII
+
+__7#9__:
+- im7/3 (can be also played as a min7)

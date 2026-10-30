@@ -1,27 +1,22 @@
 - [ ] School
 	- [ ] CL305
 		- [ ] Readings
+		- [x] Quiz 7
 	- [ ] MA415
-		- [ ] Homework 4
+		- [x] Homework 5
 		- [ ] Readings
 			- [ ] R4DS
-				- [ ] 1
-				- [ ] 9
-				- [ ] 2
+				- [ ] 14
+				- [ ] 15
+			- [ ] MDSR
 				- [ ] 6
-				- [ ] 12
-				- [ ] 13
-				- [ ] 3
-				- [ ] 9
+				- [ ] 7
 	- [ ] DS310
-		- [ ] Homework 4
+		- [ ] Homework 5
 	- [ ] PS472
-		- [ ] Readings
-		- [ ] Two articles for presentation
-			- [ ] Summary
+		- [x] Readings
 	- [ ] PS473
-		- [ ] Readings
-			- [ ] Make-up summary
+		- [x] Readings + Notes
 - [ ] Music
 	- [ ] Mariachi Terriers
 		- [ ] Boston Children's Hospital
@@ -43,5 +38,5 @@
 - [ ] EMT
 	- [ ] Study
 	- [ ] Set Date
-- [ ] Look for more jobs
-- [x] ER Bill
+- [ ] Read more on DBT
+- [ ] 

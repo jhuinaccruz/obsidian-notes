@@ -1,7 +1,7 @@
 - [x] PS101 - General Psychology
 - [x] DS110
 - [x] Principle Classes
-	- [ ] Psychology
+	- [x] Psychology
 		- [x] PS231 - Physiological Psychology
 		- [x] Group A (2)
 			- [ ] PS222: Perception and Behavior
