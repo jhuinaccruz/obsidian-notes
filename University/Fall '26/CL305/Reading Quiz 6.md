@@ -1,0 +1,116 @@
+Giants:
+- __Birth__: Castration remains of Ouranos by Cronus making impact with the Earth (Gaia)
+	- *Earth-born*
+- __Physiology__:
+	- Giant in size
+	- Always armored in art portrayals
+		- Born with armor?
+	- Serpent/fish characteristic(s)?
+		- Snake feet (acquisition in tradition from the Hellenistic period onwards)
+- __In Story__:
+	- Giants are confused with Titans in story
+		- Confused with the Titanomachy in details and participants
+		- Famous TItans are confused as being Giants
+	- Giants' characteristics are confused with Hecatoncheires as well
+		- Many hands/heads
+- __Gigantamachy__:
+	- Why?
+		- Vengance for Titans
+		- Vengance for not using the Earth as its palace
+		- Desire to overthrow Olympians
+		- Lust for female Olympians
+	- Giant Advantages
+		- Can be immortal
+			- Porphyrion and Alcyoneus: Immortal as long as they remained on land
+	- Victory to the Gods
+		- Zeus forbade the Moon and Sun to shine, Dawn to rise, smites Giants
+			- Prevented the Ophiotaurus (Snake-Bull) entrails from being burned
+		- Heracles drags Alcyoneus outside of his land
+		- Poseidon throws rock missiles at Polybotes
+		- Athena makes her Aegis out of Pallas, throws an island at Enceladus
+		- Dionysus used the sound
+	- Aftermath:
+		- Mountains named after Giants (trapped under them)
+		- Earthquakes/Volcanoes are Giants rumbling under the mountains
+	- __Rationalizations__:
+		- Iconoclast
+		- Barbarians
+		- Rebels
+		- Atheists
+
+__Prometheus__:
+- __Crimes__:
+	- Tricked Zeus into choosing (and setting the precedent for this offerings) bones wrapped in lard
+	- Gave mankind fire despite not 
+- __Punishment__: Eating of his liver by the Caucasus Eagle
+	- Eagle killed by Heracles later on
+
+__Hecatoncheires__:
+- __Origins__:
+	- Gaia and Ouranos
+	- Tethys?
+	- Poseidon?
+- __Three Main Names__
+	- Briares
+	- Aegeon
+	- Cottus
+	- Gyges
+- __Physiology__
+	- Hundred hands
+	- 50 shoulders/chests/heads?
+	- Fire breathing???
+	- 50 stomachs?
+	- Stronger than several gods combined
+- __In Story__:
+	- As allies:
+		- Fight with Zeus in the Titanomachy
+		- Briares marries a daughter of Poseidon
+		- Jailed by Ouranos and Cronus, freed by Zeus
+		- Guard Tartarus
+	- As enemies
+		- Fought against Zeus in the Titanomachy
+		- Buried under Mount Etna
+
+__Kampe__: (winding/curved caterpillar/sea monster)
+- Jailor of the Hecatoncheires
+- __Physiology__:
+	- Woman
+	- Sea monster scale legs
+	- Scorpion tail
+	- Wings
+	- Snake hair
+
+__Typhoeus__:
+- Etymology:
+	- Smoke
+	- Delusion
+	- Storm
+- __Origin__:
+	- Gaia (+ Tartarus?)
+- __Battle with the Gods__:
+	- Primarily Zeus vs.
+		- The rest of the gods run away into Egypt and turn into animals
+			- Aphrodite turns into fish and creates the constellation Pisces
+	- Loses instantly
+		- Alternate stories say he first lost
+			- Typhon stole his sinews and Thunderbolts
+			- Sends Hermes to play music and get his sinews back; steals thunderbolts as well
+	- Pan lures him out with the promise of fish
+	- Temporarily kills Heracles
+	- Typhoeus runs away underground and creates a river Orontes
+- __Children__:
+	- With Echidna
+		- Orthus,
+		- Cerberus
+		- Lernaean Hydra
+		- Chimera
+		- Crommyonian Sow
+		- Nemean Lion
+		- the Caucasian Eagle
+		- Harpies
+		- Sphinx
+		- Colchian Dragon
+		- Ladon (Dragon)
+		- Gorgons
+		- Scylla
+

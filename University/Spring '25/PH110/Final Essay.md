@@ -1,0 +1,5 @@
+- [ ] No more than 1200 words total length
+- [ ] Clearly stated topic and brief description of the critical point you are making about it
+- [ ] In several paragraphs, an accurate, informative, and text-based interpretation of a philosopher’s view and primary arguments about a topic (i.e., don’t just repeat what is written, but _explain_ it)
+- [ ] One substantive objection to the stated view in a single, standalone paragraph.
+- [ ] A brief conclusion summarizing your main idea

@@ -1,0 +1,226 @@
+---
+Date Created: 10/19/26
+Kind: Lecture
+Domain: Classics
+Last Updated: 10/23/26
+---
+__Heracles' Ten Labors__:
+1. __Nemean Lion__:
+	- Origin:
+		- Orphys+ Echidna? (Hesiod)
+		- Typhon + Echidna? (Apollodorus)
+		- Moon? (rarer but also surprisingly common)
+			- Mother? Nurse?
+			- May explain why he is difficult to kill
+	- Location: Nemea (northwest Argos)
+		- Hera
+			- To torture people (story parallels to Calydonian Boar)
+			- To torture Heracles
+			- Eastern Myth parallels?
+	- Physiology:
+		- Inpenetrable skin
+	- In Art
+		- Not always inpenetrable skin
+	- In Story
+		- Heracles tries and fails to kill him with arrows
+		- Decides to wrestle him
+		- Wins and skins it with its own claws
+		- Begins the Nemean Games
+		- The Nemean Lion is constelized as the Leo
+2. Hydra
+	- Etymology: Water
+		- In Roman: Excatra (tried to be cut)
+	- Origin:
+		- Typhon + Echidna
+	- Many Hydras?
+		- Lernean Hydra implies there are multiple Hydras
+	- Physiology
+		- Snake-like?
+		- Unspecified (Hesiod)
+		- Nine heads (Most popular)
+			- One head?
+			- Vague(ly many)
+		- Regenerative abilities (Post-Hesiodic)
+	- In story
+		- Hydra fights with Heracles
+			- (Large) Battle Crab gets in the way of the fight
+		- Iolaus helps him
+			- His dad too?
+		- Defeats the Hydra
+			- Burns his head stumps
+			- Crushes?
+			- (Immortal Head) Buries it underground
+		- Disqualified as a Labor due to technicality of not killing it
+		- Poisoned his arrows with the blood
+	- __Ceryneian Hind__:
+		- Origins
+			- Callimachus (*Hymn to Artemis*): Doe that got away from Artemis on one of her hunts
+			- Pindar (*Olympian*) / Tzetzes (*Chiliades*): Taygeta (nymph, daughter of Atlas) had dedicated a golden-horned doe to Artemis
+				- Pindar specifically inscribed into the doe "Taygete dedicated me as sacred to Artemis"
+				- Pindar also talked about
+					- Taygete being the doe herself as pity from Artemis due to Zeus lusting after her, then dedicated the doe to Artemis as a thanks
+					- Taygete being a friend of Artemis herself and being violated (as a doe) and then protected post-rape by Artemis
+					- On the horns
+						- Naturally occuring
+						- Made golden by Artemis herself
+		- Physiology
+			- Generally
+				- Golden-horned
+				- Dappled (multiple-spotted)
+				- Larger than a bull
+				- A doe
+				- Swift, skittish
+			- Sometimes
+				- Bronze footed
+				- Aggressive
+		- In story
+			- Heracles has to capture the hind without killing it
+				- Long-distance/timely chase through
+					- Peloponnese
+					- Cerynia (Achaea)
+					- Onnoe
+					- Arcadia
+						- Maenalus (Central Arcadia)
+						- Mt. Parhassus (Southwest Arcadia)
+					- Sparta
+			- Heracles wounds the Hind, and Artemis/Apollo intervene; later blame Eurystheus
+			- Heracles returns it to Eurystheus
+				- Aftermath unknown
+					- Released into the wild? (derived from similarities with other animal capture Labors)
+		- Rationalization/Allegory
+			- Hinds don't have horns
+				- Female reindeer?
+			- Ceryneian Hind represents cowardice
+				- Heracles "overcomes" such drive for cowardice
+	- __Erymanthian Boar__:
+		- No known origins?
+			- Erymanthus: Mountain/Swampy River/Woods?
+				- Lampeia? (A mountain in the Erymanthus mountain range)
+		- Physiology
+			- Massive, dangerous
+			- Nocturnal?
+			- (In stories) Dismissed as "just a pig"
+		- In story:
+			- Heracles captures the boar
+				- Wrestles the boar?
+				- Traps the boar in deep snow?
+				- Hogties the boar after shattering its tusks?
+				- Kills the boar as well (Club/Sword)
+				- (In art) Iolaus holds Heracles club (helps him)
+			- Brings it to Eurystheus
+				- Makes Eurystheus hide in his bunker
+				- Tusks are placed in a temple
+					- Did Eurystheus release the boar?
+					- Did the boar die of natural disease/causes?
+		- Allegorically: Gets over the lack of discipline (typical in people)
+			- The boar represents lack of restraint (or difficulty thereof)
+	- __Augean Stables__:
+		- King Augeas: King of Epeans (Elis), son of Phorbas?/Poseidon?/Helios?
+			- Helios makes the most sense
+				- See Cattle of the Sun, compare with Augeas' own bronze (fire-breathing) bulls (called Phaethon ("shining"))
+					- Bulls a gift from Helios?
+			- Wealthy, owns a lot of cattle
+				- Elis is overrun with cattle, remains untilled/plagued with cow poop
+		- In story:
+			- Heracles had to clean the stables in one day
+				- Humiliation ritual?
+				- Doesn't tell Augeas that he was sent as a Labor
+			- Heracles uses a river to clean the poop
+				- Breaches the walls of the stables?
+			- Aegeus fefuses to pay Heracles
+				- Eurystheus disqualifies the Labor because Heracles tries to get a reward
+			- After the Labors:
+				- Heracles wages war on Elias and kills Augeas' nephews (Meliones (conjoined twins)), Aegeus, and his sons
+				- Uses the spoils of war to start the Olympics
+		- In Art/Depiction:
+			- Rarely depicted
+				- Unglamorous?
+				- Reduces Heracles to a manual laborer
+		- Allegory: Messy/Undesirable situation
+	- __Stymphalian Bird__:
+		- No origin?
+			- Cared for by Ares
+		- In story:
+			- Heracles goes to Lake Stymphalia to drive away the birds
+				- The birds are invasive, destroying crops and men (aggressive?)
+			- Kills the birds?
+				- Uses arrows/slingshot?
+				- Just drives them away?
+					- Failing to shoot birds, he uses a bronze instrument (castanet/rattle/tambourine) to scare them away ("flushing")
+						- Instrument his idea
+		- Physiology:
+			- Migrate in large quantities
+			- Painful screech?
+		- In art
+			- Primarily portrays Heracles with a slingshot
+		- Perhaps they come back to the same area?
+			- Jason + Argonauts + description matching the Stymphalian birds
+		- Allegory: Idle hopes?
+			- Pest control?
+			- A real invasive species of birds
+	- __Cretan Bull__: Seventh Labor (First outside the Peloponnese)
+		- Origin:
+			- Not from Crete?
+			- The bull that carried Europa to Crete
+				- Isn't the bull Zeus himself?
+			- Minotaur's dad
+		- In Story:
+			- Rampages through Minos' Crete
+				- Poseidon/Zeus sent the bull there due to a broken promise (beautiful sea-born bull)
+			- Captures the bull
+				- Rides the bull back to Mycenae through the Peloponnese on its back
+				- Kills the bull?
+					- Wrestles the bull (by the horns?)
+					- Traditional weapons (sword/club)
+					- Its own flames (burns it from the inside out)
+			- Returns the bull to Eurystheus
+				- Releases the bull (as an offering to Hera?), becomes the bull of Marathon
+		- Physiology:
+			- Beautiful
+			- Loud
+			- Fire-breathing
+		- Allegory: As an earthquake? Illogical passions?
+	- __Mares of Diomedes__
+		- Origin: Thrace (barbarian land)
+			- Diomedes himself is the son of Ares (Cyrene - mom?)
+		- Physiology
+			- Four
+				- Female (sometimes)
+			- Large
+			- Strong
+			- Savage (due to diet of people?)
+				- Crave people after drinking from the River Cossinitus
+			- Winged?
+			- Fire-breathing?
+- __Geryon and his Cattle__:
+	- Etymology
+		- Geryon/Geryones/Geryoneus
+			- *shouter/shouting*
+	- Located in the far West (Iberia (Modern Spain/Portugal))
+		- Considered the (then) most Western point of travel ever, established the pillars of Heracles
+	- In story
+		- Sails to Geryon (Erithea) in a metal cup
+			- Shoots at Helios (the sun?)
+				- Helios (amused/amazed?) gives him a magical cup to sail in
+					- Maybe Oceanus?
+		- Crosses paths with Orth(r)us
+			- *dawn/daybreak*
+			- Child of Echidna/Typhoeus
+			- Has two heads, serpentine elements
+				- Slippage with Cerberus
+			- Inseparable with Geryon
+			- As strong as Cerberus?
+		- Fights Orthus with his club
+		- Meets Eurydion
+			- Son of Ares (Mars)
+			- Famous for falling down and dying
+		- 
+	- Physiology
+		- Cattle
+			- Beautiful
+			- Red?
+			- Valuable due to...
+				- Color?
+				- Cared for expensively
+		- Geryon
+			- 

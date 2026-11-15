@@ -12,7 +12,8 @@ __min7/IV__:
 - IV7sus4
 
 __maj7__:
-- VImin9/I
+- VImin9
+- viimin7/I
 
 __maj7/V__:
 - add11, 13

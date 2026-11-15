@@ -1,0 +1,5 @@
+>[!quote]
+>According to Gemini:
+>
+>**
+

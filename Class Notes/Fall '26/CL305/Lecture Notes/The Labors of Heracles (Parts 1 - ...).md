@@ -2,7 +2,7 @@
 Date Created: 10/19/26
 Kind: Lecture
 Domain: Classics
-Last Updated: 10/19/26
+Last Updated: 10/23/26
 ---
 __Heracles' Ten Labors__:
 1. __Nemean Lion__:
@@ -52,3 +52,512 @@ __Heracles' Ten Labors__:
 			- (Immortal Head) Buries it underground
 		- Disqualified as a Labor due to technicality of not killing it
 		- Poisoned his arrows with the blood
+	- __Ceryneian Hind__:
+		- Origins
+			- Callimachus (*Hymn to Artemis*): Doe that got away from Artemis on one of her hunts
+			- Pindar (*Olympian*) / Tzetzes (*Chiliades*): Taygeta (nymph, daughter of Atlas) had dedicated a golden-horned doe to Artemis
+				- Pindar specifically inscribed into the doe "Taygete dedicated me as sacred to Artemis"
+				- Pindar also talked about
+					- Taygete being the doe herself as pity from Artemis due to Zeus lusting after her, then dedicated the doe to Artemis as a thanks
+					- Taygete being a friend of Artemis herself and being violated (as a doe) and then protected post-rape by Artemis
+					- On the horns
+						- Naturally occuring
+						- Made golden by Artemis herself
+		- Physiology
+			- Generally
+				- Golden-horned
+				- Dappled (multiple-spotted)
+				- Larger than a bull
+				- A doe
+				- Swift, skittish
+			- Sometimes
+				- Bronze footed
+				- Aggressive
+		- In story
+			- Heracles has to capture the hind without killing it
+				- Long-distance/timely chase through
+					- Peloponnese
+					- Cerynia (Achaea)
+					- Onnoe
+					- Arcadia
+						- Maenalus (Central Arcadia)
+						- Mt. Parhassus (Southwest Arcadia)
+					- Sparta
+			- Heracles wounds the Hind, and Artemis/Apollo intervene; later blame Eurystheus
+			- Heracles returns it to Eurystheus
+				- Aftermath unknown
+					- Released into the wild? (derived from similarities with other animal capture Labors)
+		- Rationalization/Allegory
+			- Hinds don't have horns
+				- Female reindeer?
+			- Ceryneian Hind represents cowardice
+				- Heracles "overcomes" such drive for cowardice
+	- __Erymanthian Boar__:
+		- No known origins?
+			- Erymanthus: Mountain/Swampy River/Woods?
+				- Lampeia? (A mountain in the Erymanthus mountain range)
+		- Physiology
+			- Massive, dangerous
+			- Nocturnal?
+			- (In stories) Dismissed as "just a pig"
+		- In story:
+			- Heracles captures the boar
+				- Wrestles the boar?
+				- Traps the boar in deep snow?
+				- Hogties the boar after shattering its tusks?
+				- Kills the boar as well (Club/Sword)
+				- (In art) Iolaus holds Heracles club (helps him)
+			- Brings it to Eurystheus
+				- Makes Eurystheus hide in his bunker
+				- Tusks are placed in a temple
+					- Did Eurystheus release the boar?
+					- Did the boar die of natural disease/causes?
+		- Allegorically: Gets over the lack of discipline (typical in people)
+			- The boar represents lack of restraint (or difficulty thereof)
+	- __Augean Stables__:
+		- King Augeas: King of Epeans (Elis), son of Phorbas?/Poseidon?/Helios?
+			- Helios makes the most sense
+				- See Cattle of the Sun, compare with Augeas' own bronze (fire-breathing) bulls (called Phaethon ("shining"))
+					- Bulls a gift from Helios?
+			- Wealthy, owns a lot of cattle
+				- Elis is overrun with cattle, remains untilled/plagued with cow poop
+		- In story:
+			- Heracles had to clean the stables in one day
+				- Humiliation ritual?
+				- Doesn't tell Augeas that he was sent as a Labor
+			- Heracles uses a river to clean the poop
+				- Breaches the walls of the stables?
+			- Aegeus fefuses to pay Heracles
+				- Eurystheus disqualifies the Labor because Heracles tries to get a reward
+			- After the Labors:
+				- Heracles wages war on Elias and kills Augeas' nephews (Meliones (conjoined twins)), Aegeus, and his sons
+				- Uses the spoils of war to start the Olympics
+		- In Art/Depiction:
+			- Rarely depicted
+				- Unglamorous?
+				- Reduces Heracles to a manual laborer
+		- Allegory: Messy/Undesirable situation
+	- __Stymphalian Bird__:
+		- No origin?
+			- Cared for by Ares
+		- In story:
+			- Heracles goes to Lake Stymphalia to drive away the birds
+				- The birds are invasive, destroying crops and men (aggressive?)
+			- Kills the birds?
+				- Uses arrows/slingshot?
+				- Just drives them away?
+					- Failing to shoot birds, he uses a bronze instrument (castanet/rattle/tambourine) to scare them away ("flushing")
+						- Instrument his idea
+		- Physiology:
+			- Migrate in large quantities
+			- Painful screech?
+		- In art
+			- Primarily portrays Heracles with a slingshot
+		- Perhaps they come back to the same area?
+			- Jason + Argonauts + description matching the Stymphalian birds
+		- Allegory: Idle hopes?
+			- Pest control?
+			- A real invasive species of birds
+	- __Cretan Bull__: Seventh Labor (First outside the Peloponnese)
+		- Origin:
+			- Not from Crete?
+			- The bull that carried Europa to Crete
+				- Isn't the bull Zeus himself?
+			- Minotaur's dad
+		- In Story:
+			- Rampages through Minos' Crete
+				- Poseidon/Zeus sent the bull there due to a broken promise (beautiful sea-born bull)
+			- Captures the bull
+				- Rides the bull back to Mycenae through the Peloponnese on its back
+				- Kills the bull?
+					- Wrestles the bull (by the horns?)
+					- Traditional weapons (sword/club)
+					- Its own flames (burns it from the inside out)
+			- Returns the bull to Eurystheus
+				- Releases the bull (as an offering to Hera?), becomes the bull of Marathon
+		- Physiology:
+			- Beautiful
+			- Loud
+			- Fire-breathing
+		- Allegory: As an earthquake? Illogical passions?
+	- __Mares of Diomedes__
+		- Origin: Thrace (barbarian land)
+			- Diomedes himself is the son of Ares (Cyrene - mom?)
+		- Physiology
+			- Four
+				- Female (sometimes)
+			- Large
+			- Strong
+			- Savage (due to diet of people?)
+				- Crave people after drinking from the River Cossinitus
+			- Winged?
+			- Fire-breathing?
+		- In Story:
+			- Captures/Kills the mares after killing Diomedes
+				- Feeds him to his own horses?
+				- Sometimes leads to a war between Thracians and Diomedes
+				- Sometimes gives the mares to Aberdus (eromenos - male lover)
+					- Abderus mischaracterized constantly as minion/friend/roommate
+					- They kill Abderus, starts the city of Aberdus
+			- Weans the mares off human flesh?
+				- Rides them home?
+			- Aftermath
+				- Eurystheus
+					- Lets them go
+						- Killed off by local wildlife
+						- Horses reproduce; children are showhorses, Macedonian Horses, or end up with Greek Diomedes
+					- Sisyphus steals them, gives them to his son Glaucus
+				- Heracles gives them to his own son Cromis
+		- Rationalized/Allegory
+			- Horsebreaking: Rite of passage into manhood
+			- Man-eating as an allegory for expensive
+			- Vicious an exaggeration of differing diets from Greek
+			- Mares allegories for his daughters
+				- Guests are forced to sleep with his daughters, them killed
+			- No allegory?
+- __Amazon__:
+	- Origin:
+		- Far East?
+		- Associated with the river Thermodon and Themiscyra
+	- Etymology
+		- "of a single breast"
+		- "living together"
+		- "not breastfeeding"
+		- "without bread" -> "only feed on meat"
+		- "reaping in belts" -> pillage fields with armor
+		- Non-Greek
+			- "man-killers"
+			- Iranian warriors
+			- Husbandless?
+			- Forest/Moon mother
+	- Characteristics
+		- All female tribe
+			- Reproduce through passing-by men and/or Gargareans (all-male tribe)
+				- Kill male offspring? Castrates them? Returns them to their respective fathers?
+		- Children of Ares +
+			- Single original Amazon parent (no mother)?
+			- Single mother (Otrera)
+			- Single mother (Harmonia)
+		- Single queen
+			- Hippolyta
+			- Antiope
+			- Melanippe
+			- Glauce
+			- Deilyca
+			- Oeolyca
+			- Orthosia
+		- In Story
+			- Hippolyta has a girdle granted by Ares to the strongest warrior
+				- Only detail describes it as being of fine craftsmanship and costly value (gold)
+			- Eurystheus sends Heracles (to get the girdle for his daughter Admete?)
+				- Diplomatic start?
+					- devolves due to Hera's rumors of his plan to kidnap the queen
+					- Ignore Heracles, resorts to war, ransoms Melanippe in exchange for the girdle
+				- Goes straight to war
+					- Easy victory?
+					- Just kills Hippolyta?
+					- Wrestles the belt away (no casualties)
+					- Given by Theseus?
+					- Takes Hippolyta and the girdle with her
+			- Aftermath?
+				- Starts the city of Heracleum?
+				- Admete dedicates the girdle to Hera
+				- Hippolyta killed by fellow Amazon or Theseus?
+				- Amazons wiped out due to constant battles?
+					- Or become Maenads?
+		- In Art
+			- Second most popularly depicted (second only to Nemean Lion)
+		- Allegory/Rationalization
+			- Misogyny
+			- Women lesser than men
+			- Even Amazons are "just" women
+			- Not actually women, but just men with female characteristics
+	
+- __Geryon and his Cattle__:
+	- Etymology
+		- Geryon/Geryones/Geryoneus
+			- *shouter/shouting*
+		- Orthrus: 'dawn', 'awake at dawn'
+	- Origin:
+		- Located in the far West (Iberia (Modern Spain/Portugal))
+			- Considered the (then) most Western point of travel ever, established the pillars of Heracles
+		- Orthrus
+			- Son of Typhon + Echidna
+			- Geryon
+				- Son of Chrysaor and Callirhoe
+	- In story
+		- Sails to Geryon (Erithea) in a metal cup
+			- Shoots at Helios (the sun?)
+				- Helios (amused/amazed?) gives him a magical cup to sail in
+					- Maybe Oceanus?
+		- Crosses paths with Orth(r)us
+			- *dawn/daybreak*
+			- Child of Echidna/Typhoeus
+			- Has two heads, serpentine elements
+				- Slippage with Cerberus
+			- Inseparable with Geryon
+			- As strong as Cerberus?
+		- Fights Orthus with his club
+		- Meets Eurytion
+			- Son of Ares (Mars)
+			- Famous for falling down and dying
+		- Kills Geryon
+			- Shoots him with an arrow per head
+			- Clubbed to death
+			- Shot in one head before being killed up close
+		- Returns home (Many side quests)
+			- Cattle-related missions
+			- Monster killing
+			- Founding cities
+			- Found peoples
+			- Has many kids
+			- Inaugurating rituals
+			- changing the landscape
+		- Aftermath
+			- Sacrifices the cattle
+				- Some cattle get lost along the way
+			- Geryon's Tree?
+	- Rationalization
+		- Tyrant king (arrogant and/or savage)
+		- Pitied (even in antiquity)
+			- Heracles kills someone who is just taking care of his cattle
+			- Geryon discouraged Geryon from righting Heracles
+		- Three brothers that were so in sync they seemed to be guided by one mind
+		- Ruled three island?
+		- Orthrus: Land/Sea supremacy
+		- Bronze boat = bronse ships?
+		- Three heads = past-present-future?
+		- Geryon = sun, Heracles = time?
+	- Physiology
+		- Cattle
+			- Beautiful
+			- Red?
+			- Valuable due to...
+				- Color?
+				- Cared for expensively
+		- Geryon
+			- Multiple...
+				- Bodies?
+				- Hearts?
+				- Legs/Arms/eyes?
+				- Triple? Triform?
+				- Six hands?
+				- Two/three/six legs?
+				- Three heads?
+				- Four bodies?
+				- Torsos
+			- Ageless
+			- Large
+			- Large(st being Heracles ever encountered)
+			- Strong
+			- Untiring?
+			- Three lives?
+			- Wings?
+			- Fire-breathing
+			- Tri-wielding torches/arrows/spears/shields
+		- Ortrhus
+			- Two headed
+			- Equally powerful to Cerberus
+			- Serpentine elements later added?
+- Hesperides:
+	- Located far away (west) beyond Oceanus
+		- Africa? Libya?
+	- Detail slippage with Geryon?
+	- Origin
+		- Apples
+			- Wedding gift from Gaia to Zeus + Hera
+			- Apples sacred to Aphrodite
+		- Hesperides
+			- Night
+				- (parthenogenesis)
+				- .+ Erebus
+			- Phorcys + Ceto
+			- Oceanus
+			- Atlas
+				- + no mother
+				- + unspecified Nymph
+				- + Hesperis
+			- Hesperus
+			- Zeus + Themis
+		- Ladon:
+			- Phorcys + Ceto
+				- Their youngest and strongest offspring?
+			- Typhon + Echidna
+			- Gaia + unnknown father???
+			- Acts on behalf of Hera? Just likes gold?
+	- Etymology:
+		- Hesperides: 
+			- Aegle: Brightness
+			- Erythea: Red
+			- Hersperthousa: West Rusher
+			- Hespereia: West
+			  Hedusa: Memory
+			- Arethusa: Watering
+			- Phaethusa: Burning
+			- Aerica: ???
+		- Ladon: Violent/Rapacious/Hidden?
+		- Atlas
+			- Owns the orchard?
+	- In story
+		- Heracles must retrieve the golden apples of the Hesperides
+			- Three specifically?
+			- Golden apples
+		- Hesperides work with Ladon to protect the apples
+			- Hesperides feed Ladon
+				- Ladon protects apples from Hesperides???
+		- Two major timelines
+			- Atlas grabs the apples for Heracles in exchange for holding up the heavens?
+				- Wrestles Nereus and gets him to help him (advises him to get Atlas to help him) (sometimes) or...
+				- Kills Caucasus Eagle and Prometheus gratefully tells him to get Atlas to get the apples (always)
+				- Gets to Atlas by...
+					- Flying?
+					- The cup?
+				- Variants where Atlas fetches the apples has no overlap with the descendants of Atlas variants
+			- Heracles gets the apples himself?
+			- Atlas returns with the apples, doesn't want to hold up the heavens
+				- Tricks Atlas by asking him to hold it up for a moment?
+				- Guilt-trips Atlas? (unlikely)
+			- Gets to Ladon and...
+				- Kills him?
+					- Clubs him to death?
+					- Hydra arrows?
+					  Throttle?
+				- Doesn't kill him?
+					- Hesperides drug/distract Ladon
+						- One of them falls in love with him? Deceitfully?
+					- Athena picks the apple for him?
+			- Aftermath:
+				- Apples are returned by Heracles or Athena to the Garden
+				- Apples end up with...
+					- Aphrodite: Hippomenes + atalanta
+					- Eris (god of Discord): Peleus. + Thetis, chaos by rolling an apple (with the work kalliste "for the fairest") on it, initiating the Judgement of Paris (leading to the Trojan War)
+					- Zeus because Heracles returns it to him
+				- Hesperides turn into trees
+				- Ladon and Hercules are turned into constellations Draco + Hercules?
+				- Cornucopia: Side Labor  with Achelous' broken horn
+	- Characteristics
+		- Hesperides
+			- Hostile?
+				- Slippage with Harpies
+			- Benevolent?
+				- Saved the Argonauts from dehydration
+		- Ladon
+			- Enormous
+			- Too many heads
+			- Immortal
+			- Piercing stare
+			- Causes storms
+			- Never sleeps
+			- Coiled around the apple tree
+			- Red back?
+	- Allegory
+		- Atlas:
+			- Marks the end of the known world
+			- An excuse to insert Heracles holding up the sky?
+				- Athena helps?
+			- A philosopher/astronomer that fell off Mt. Atlas while stargazing
+				- Taught Heracles astronomy?
+		- Golden Apples:
+			- Exotic fruit (pleasant-smelling but inedible)
+				- Olives?
+			- Sheep with golden (or red???) wool?
+				- Same Greek word (mela)
+		- Ladon:
+			- Shepherd that guarded sheep
+			- Serpentine sea route to the island
+		- Hesperides:
+			- Seasons?
+		- The Quest itself
+			- Enlightenment
+				- Hesperides representing stages of learning
+			- Immortality
+- Cerberus:
+	- Location:
+		- Cape Taernarum
+		- Heraclea Pontica
+		- Far down?
+	- In Story
+		- Has to bring Cerberus to Eurystheus
+			- Suicide mission?
+			- Occurs after:
+				- Adopted into Athenian family?
+				- Purified of blood pollution from Centaur killings?
+		- Fights Cerberus?
+			- Beaten into submission and dragged away in chains?
+			- Hades imposes conditions?
+				- Without iron (or any) weapons
+					- Uses stone weapons (or simply wrestles him)
+		- May have been gifted the dog by Persephone
+			- Because of shared parenthood?
+		- Tamed the dog?
+			- Lulls him to sleep with music
+			- Orpheus calms him with music
+			- Given food?
+				- Honeycake?
+		- Aftermath
+			- Trimphant walk through Greece
+			- Eurystheus cowers and hides
+			- Cerberus returns?
+				- Heracles returns him?
+				- Set free?
+			- Discovert of aconite, polar trees, and tradition of freed slaves drinking from Cynadra (dog water)
+	- Etymology:
+		- Primarily "Meat-eating"
+			- "weigh down one's heart"?
+			- Spot?
+			- Disaster of the abyss?
+			- Heavy headed?
+			- Hound of the earth?
+			- Growl?
+		- Later referred to as Tricerberus?
+	- Origin:
+		- Typhon + Echidna
+		- Born from Hydra (+ Echidna)?
+		- Medusan monster?
+	- Physiology:
+		- Multiple bodies?
+		- Three tails?
+		- Strong
+		- Huge
+		- Dark dog
+		- Sharp teeth
+		- Mean bite
+		- Multiple heads?
+			- Many?
+			- three?
+				- Primarily in art (usually only one or two)
+			- 50?
+			- 100?
+			- Confusion due to snakes in mane?
+		- Loud bark consistently
+			- Bronze voiced = Loud as a trumpet or apotropaic (ominous)?
+		- Serpentine elements
+			- Tail
+			- Mane
+			- Hair
+			- Snake on paws/back
+		- Can petrify
+		- Anomalies
+			- Lion body instead of dog?
+			- Three heads of different animals?
+			- Other animal heads on back?
+		- Defends boundary between life or death
+		- Hears ghosts
+		- Aggressive
+	- Rationalization
+		- Dachshund? Molossian (prized dog breed)?
+		- A dog from the Tricranium
+		- Dog with two puppies
+		- A snake?
+			- A poisonous snake from Taernarum
+		- Allegorized as
+			- Fear of punishment in the underworld
+			- Hate?
+			- Three heads = ...
+				- Kinds of fights (natural/causal/accidental)
+				- Stages of life (youth/middle/old age)
+				- Aspects of litigiousness
+				- Branches of philosophy (logic/physics/ethics)
+			- Mastering vice?
+			- Earth consuming human body?
+			- Overcoming death
