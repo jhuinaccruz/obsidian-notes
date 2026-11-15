@@ -37,3 +37,6 @@ __aug7b9__:
 
 __aug7#9__:
 - min7b13/bII
+
+__7#9__:
+- im7/3 (can be also played as a min7)

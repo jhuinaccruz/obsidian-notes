@@ -1,35 +1,30 @@
 - [ ] School
 	- [ ] CL305
-		- [ ] Readings
+		- [ ] Quiz 8
 	- [ ] MA415
-		- [ ] Homework 4
+		- [x] Homework 5
 		- [ ] Readings
 			- [ ] R4DS
-				- [ ] 1
-				- [ ] 9
-				- [ ] 2
+				- [ ] 14
+				- [ ] 15
+			- [ ] MDSR
 				- [ ] 6
-				- [ ] 12
-				- [ ] 13
-				- [ ] 3
-				- [ ] 9
+				- [ ] 7
 	- [ ] DS310
-		- [ ] Homework 4
+		- [x] Homework 5
 	- [ ] PS472
 		- [ ] Readings
-		- [ ] Two articles for presentation
-			- [ ] Summary
+		- [ ] Slide 3 + 2 Discussion Qs
 	- [ ] PS473
-		- [ ] Readings
-			- [ ] Make-up summary
+		- [ ] Readings + Notes
 - [ ] Music
 	- [ ] Mariachi Terriers
-		- [ ] Boston Children's Hospital
-			- [ ] Transcribe Piel Canela
-			- [x] Fix Cien Anos
-			- [ ] Fix La Llorona
-				- [ ] Add solo track
-				- [ ] Add iReal Pro
+		- [ ] Transcribe Piel Canela
+		- [x] Fix Cien Anos
+		- [x] look at t3 (missing ending, c-e intro, low to high c)
+		- [ ] Fix La Llorona
+			- [ ] Add solo track
+			- [ ] Add iReal Pro
 		- [ ] Finish Me Gustas Mucho
 		- [ ] Find new song
 			-  female-oriented
@@ -43,5 +38,4 @@
 - [ ] EMT
 	- [ ] Study
 	- [ ] Set Date
-- [ ] Look for more jobs
-- [x] ER Bill
+- [ ] Read more on DBT
