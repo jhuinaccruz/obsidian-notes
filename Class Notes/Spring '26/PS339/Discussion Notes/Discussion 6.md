@@ -1,1 +1,0 @@
-__Population Vector Coding__: The collective pattern of neuron firing in the primary motor cortex that translates into movement

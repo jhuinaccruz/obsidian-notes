@@ -7,4 +7,32 @@ Project: Monster-A-Thon
 Subproject: Presentation
 Action: Revise
 ---
-## 
+## Rubric
+
+- [ ] Stay within time block (~15 minutes)
+- [ ] Slides sent 9:00 AM on Friday
+	- *thoughtfully-researched points throughout* (not just quoting a text or scholar _verbatim_ for 15 minutes)
+- [ ] Most important points of the monster:
+	- [ ] Etymology
+	- [ ] Presence in Myth
+	- [ ] Appearances in literature
+	- [ ] Physiology
+	- [ ] Ancient representations in physical arts
+	- [ ] Development over time 
+	- [ ] Legacy
+- [ ] Works-cited slide/section with all relevant primary sources
+- [ ] At least five modern pieces of scholarship (20xx)
+- Cite in the following format:
+	- *Primary Source*: Author, Text (if needed, book number and line numbers).
+	- *Article*: Scholar, John. Year. "Title of Article." Journal Name volume number: page range.
+	- *Chapter in Edited Volume*: Scholar, John. Year. "Title of Chapter." In Jane Editor (ed.), Title of Edited Volume, page range. City of Publication and/or Publisher.
+	- *Book*: Scholar, John. Year. Title of Book. City of Publication and/or Publisher.
+## Structure
+- Introduction (why is this topic interesting?)
+- Etymology of the characters
+- Io and Argus story
+- Deviations
+	- Story
+	- Art
+- Rationalization/Interpretations
+- Vision for essay?

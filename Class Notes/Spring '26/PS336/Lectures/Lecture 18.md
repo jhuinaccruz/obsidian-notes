@@ -1,1 +1,0 @@
-__Hierarchical Semantic Network__: A set of propositional statements where each property is stored at most once at the highest level
