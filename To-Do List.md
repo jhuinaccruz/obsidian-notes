@@ -22,18 +22,14 @@ cellStyleRules: []
 ## School
 - [ ] CL305
 	- [ ] Essay
-	- [ ] Presentation
+		- [ ] 
 	- [ ] Research
-		- [ ] Argus
-			- [ ] Finish first-hand sources?
-			- [ ] Find interpretations/scholarly essays
 		- [ ] Io
-		- [ ] Hermes/Hera?
+			- [ ] Find more sources
 - [ ] PS472
-	- [ ] Finish readings
-	- [ ] Finish homework reading
-	- [ ] Prepare for presentation
-		- [ ] Write notes for presentation
-		- [ ] Rehearse
+	- [ ] Quiz Prep
+		- [ ] Review Readings
+		- [ ] Add entries into Obsidian
+		- [ ] Review
 - [ ] PS473
-	- [ ] 
+	- [ ] Catch up on readings/notes

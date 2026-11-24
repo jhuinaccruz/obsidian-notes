@@ -3,5 +3,11 @@
 
 >*Juno regardful of Jove's cunning art, lest he might change her to her human form, gave the unhappy heifer to the charge of Argus, Aristorides, whose head was circled with a hundred glowing eyes; of which but two did slumber in their turn whilst all the others kept on watch and guard. Whichever way he stood his gaze was fixed on Io — even if he turned away his watchful eyes on Io still remained. He let her feed by day; but when the sun was under the deep world he shut her up, and tied a rope around her tender neck. She fed upon green leaves and bitter herbs and on the cold ground slept — too often bare, she could not rest upon a cushioned couch. She drank the troubled waters. Hoping aid she tried to stretch imploring arms to Argus, but all in vain for now no arms remained; the sound of bellowing was all she heard, and she was frightened with her proper voice. Where former days she loved to roam and sport, she wandered by the banks of Inachus: there imaged in the stream she saw her horns and, startled, turned and fled. And Inachus and all her sister Naiads knew her not, although she followed them, they knew her not, although she suffered them to touch her sides and praise her. When the ancient Inachus gathered sweet herbs and offered them to her, she licked his hands, kissing her father's palms, nor could she more restrain her falling tears. If only words as well as tears would flow, she might implore his aid and tell her name and all her sad misfortune; but, instead, she traced in dust the letters of her name with cloven hoof; and thus her sad estate was known.*
 
+### [Herodotus' *Histories* 1.1-5](https://www.thelatinlibrary.com/historians/herod/herodotus1.html)
+
+## [Aeschylus' *Suppliants*](https://classics.mit.edu/Aeschylus/suppliant.html)
+
 ## Journal/Book
 ### [The Wanderings of Io: Spatial Readings into Greek Mythology](https://books.openedition.org/editionsehess/3055)
+## Art
+### [Prometheus and Io](https://www.aucklandartgallery.com/explore/art-and-artists/artwork/3327/prometheus-and-io)

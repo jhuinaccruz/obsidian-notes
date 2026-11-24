@@ -94,6 +94,10 @@ Throughout the *Argonautica*, he is mainly a mechanic who is on board for the ma
 >*Deprived him of life. I goad-struck*
 >*By a divine whip am now driven from country to country.*
 
+### [Bacchylides' *Dithyrambs*]()
+>*When Argus, who could see all around with untiring eyes, was bidden by golden-robed Hera, the greatest queen, to guard the lovely-horned heifer, unresting and unsleeping; and the son of Maia could not evade him, neither by shining day nor by sacred night. Did it then happen that...*
+
+>*the swift-footed messenger \[of Zeus\] then killed \[the son of Earth\] with mighty offspring ... Argus? Or was it that ... unutterable cares? Or did the Pierian Muses bring about ... rest from troubles ...? For me, the most secure \[path?\] is the one which ... when she arrived at the flowery banks of the Nile, \[gadfly-driven\] Io, bearing the child ... Epaphus. There \[she bore him?\] ... ruler over linen-robed ... teeming with majestic ... \[45\] and greatest ... mortal ... from this race Cadmus, son of Agenor, begat Semele in seven-gated Thebes, and she bore the rouser of Bacchants, Dionysus, the ... and \[lord of\] garland-\[bearing\] choruses.*
 ### [Scholiast annotation on a footnote in Hesiod's\/Cercops of Miletus' *Aegimius*](https://topostext.org/work/7#MS.F5)
 >*IO Scholiast on Eurip, Phoen. 1116: "And (Hera) set a watcher upon her (Io), great and strong (Argus), who with four eyes looks every way. And the goddess stirred in him unwearying strength: sleep never fell upon his eyes; but he kept sure watch always."*
 
@@ -103,6 +107,8 @@ Throughout the *Argonautica*, he is mainly a mechanic who is on board for the ma
 >*Panoptes: People invented the idea that Panoptes, because he was eager to see and listen in on everything, had eyes covering his whole body. As a result, we still even now call people who are inquisitive in this way ‘panoptic.’*
 
 ### [Euripides' *Phoenician Women*](https://topostext.org/work/47#1109)
+>*But against the Ogygian gate stood Prince Hippomedon, bearing an emblem in the middle of his shield, the Argus gazing with his spangled eyes, \[some eyes indeed with the rising of the stars awake, and some with the setting closed, as we had the opportunity of seeing afterward when he was dead.\]*
+
 ### Ovid
 #### [*Metamorphoses*]
 >*Juno regardful of Jove's cunning art, lest he might change her to her human form, gave the unhappy heifer to the charge of Argus, Aristorides, whose head was circled with a hundred glowing eyes; of which but two did slumber in their turn whilst all the others kept on watch and guard. Whichever way he stood his gaze was fixed on Io — even if he turned away his watchful eyes on Io still remained.*
@@ -132,7 +138,7 @@ Throughout the *Argonautica*, he is mainly a mechanic who is on board for the ma
 >*And since that time, the linen wearing throng of Egypt have adored her as a God; for they believe the seed of Jove prevailed; and when her time was due she bore to him a son called Epaphus; who also dwells in temples with his mother in that land. Now Phaethon, whose father was the Sun, was equal to his rival, Epaphus, in mind and years; and he was glad to boast of wonders, nor would yield to Epaphus for pride of Phoebus, his reputed sire. Unable to endure it, Io's son thus mocked him; 'Poor, demented fellow, what will you not credit if your mother speaks, you are so puffed up with the fond conceit of your imagined sire, the Lord of Day.'*
 
 *Aristorides*/*Arestorides*: Son of Arestor
-### [*On Love*]
+#### [*On Love*]
 ### [Hyginus' *Fabulae*](https://topostext.org/work/206#145)
 
 ### [Tzetze's *Ad Lyncophronem*](https://topostext.org/work/860#836)
@@ -147,14 +153,17 @@ Throughout the *Argonautica*, he is mainly a mechanic who is on board for the ma
 >*In these years there were among the Hellenes Prometheus, Epimetheus, Atlas, and all-seeing Argus called the hundred-eyed because he was looked at by all sides, and was fierce,*
 >
 >*and Deucalion, the son of Hellen son of Picus. Argus discovered craftsmanship in the western parts*
-
+### [Lucian's *Dialogues of the Gods Vol. 7 p. 217, 219, 263*](https://lucianofsamosata.info/downloads/loeb_lucian_vol7.pdf)
 ## Art
+### Ancient
 ## [LIMC](https://app.dasch.swiss/project/BRwvcfLLT72IN-fXzQkrdQ/advanced-search?q=Argus)
-### Naples National Archaeological Museum
+#### Naples National Archaeological Museum
 #### [17694](https://app.dasch.swiss/resource/080E/9QhD-sgWULacZ-lZ9pdZwA)
 #### [17696](https://app.dasch.swiss/resource/080E/n1bxEy14Vo-V_dDuCFxYug)
 #### [4103](https://app.dasch.swiss/resource/080E/CpwZjDVPVCWR64nhmd79JQ)
-#### []()
+### Modern
+#### [Kunst Historisches Museum](https://www.khm.at/en/artworks/argus-guarding-io-89658-1)
+
 ## Scholarly Essays/Books
 ### [Ten Thousand Eyes: The Story of Ἄργος Μυριωπός](https://www.academia.edu/22563153/Ten_Thousand_Eyes_The_Story_of_%E1%BC%8C%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CF%85%CF%81%CE%B9%CF%89%CF%80%CF%8C%CF%82?utm_source=chatgpt.com)
 
@@ -162,6 +171,13 @@ Throughout the *Argonautica*, he is mainly a mechanic who is on board for the ma
 
 ## Misc.
 ### [Theoi](https://www.theoi.com/Gigante/GiganteArgosPanoptes.html)
+>*ARGOS PANOPTES was a hundred-eyed giant of Argolis in the Peloponnese.*
+>
+>*Once when Zeus was consorting with the Argive Nymphe Io, his jealous wife Hera appeared on the scene. The god quickly transformed her into a white heifer but the goddess was not deceived and demanded the animal as a gift. She then appointed Argos Panoptes as its guard.*
+>
+>*Zeus sent Hermes to surreptitiously rescue his lover. The god lulled the giant to sleep with his music and slew him with his sword. From this conquest he earned the title Argeiphontes "Slayer of Argos".*
+>
+>*Hera rewarded Argos for his service by placing his hundred eyes on the tail of her sacred bird, the peacock.*
 ### [Oxford Classical Dictionary](https://www.oxfordreference.com/display/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-717)
 >*((1) RE 18), son of Zeus and the Argive Niobe (daughter of Phoroneus), eponym of the city of Argos (1) (Apollod. 2. 1. 1), part of archaic Argive mythological propaganda. His grave, not far from that of his ‘brother’ Pelasgus (Paus. 2. 22, cf. Apollod. 2. 1. 1–2), was in a dense sacred grove (Hdt. 6. 78–80). ((2) RE 19) Argos ‘Panoptes’ (‘All-seeing’), monster born of no agreed parents—perhaps even earthborn (Aesch. PV 567), with multiple eyes: four (the Aegimius, Hes. fr. 294 M–W), an extra eye in the back of the head and unsleeping (Pherec. FGrH 3 F 67), or covered in eyes (Eur. Phoen. 1116, perhaps Aesch. PV 678). Hera has him guard Io, but he is tricked and killed by Hermes, who thus acquires his epithet ‘Argeiphontes’ (supposedly ‘Argos-slayer’, already in Hes. Catalogus mulierum, fr. 126 M–W). In later tradition, at death he turns into a peacock (Moschus 2. 58) or his eyes are added to its plumage (Ov. Met. 1. 722). ((3) RE 20) An Argonaut, builder of the Argo (Ap. Rhod. 1. 19, 226; Diod. Sic. 4. 41. 3), a favourite of Roman artists, LIMC 2/1 (1984), 600–2. ((4) RE 27) ‘Swift’, Odysseus’ dog (Od. 17. 291).*
 
@@ -179,3 +195,5 @@ __Prometheus Bound__:
 - Argus is chasing her with a gadfly even after death?
 - Argus --> Other Argus the craftsman?
 	- Allegory or 
+
+Dustin Lowe: Monsters and Monstrosity

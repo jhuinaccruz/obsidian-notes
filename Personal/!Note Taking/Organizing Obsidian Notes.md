@@ -8,8 +8,9 @@
 - __Kind__: What *kind* of note is it?
 	- *Reference*: Index/Query of a function/specific piece of knowledge
 	- *Lecture*: Notes from a lecture
-	- *Study*: Analysis of anything personal
+	- *Analysis*: Analysis of anything personal
 	- *Plan*: A guide/structuring of a process/project/etc.
+	- *Study*: Scholarly papers, scientific papers, any source
 	- *Miscellaneous*: Anything else (needs categorization ASAP)
 - __Domain__: What broad category of study does this belong to?
 	- e.g. Psychology, Data Science/Coding, Music, etc.
@@ -20,8 +21,9 @@
 - __State__: How do I feel about what I am writing down?
 	- Use Likert Scale (1-7)
 - __Project__: Is this knowledge contributing to a specific product or goal? If so what?
-	- __Subproject__: A project within a project; a large enoguh component of a project to deserve its own seciton
+	- __Subproject__: A project within a project; a large enoguh component of a project to deserve its own section
 - __Action__: What do i need to do next regarding this topic?
 	- *Archive*: Reviewed and used, in other words nothing (mostly for school/study) (==Default==)
 	- *Study*
 	- *Revise*: Unfinished note needs to be finished
+

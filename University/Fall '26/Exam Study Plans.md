@@ -57,8 +57,21 @@
 ## CL305 Quiz 7 (80%)
 ## DS310 Quiz 5
 ## CL305 Quiz 8
-=======
+
 ## CL305 Quiz 7 (83%)
 ## CL305 Quiz 8 (80%)
 ## DS310 Quiz 5
->>>>>>> refs/remotes/origin/main:University/Fall '26/Exam Study Plans.md
+## DS310 Quiz 6
+## PS472 Reading Quiz 2
+- [ ] Readings
+	- [x] Kirk-Provencher
+	- [x] Winstok and Strauss
+	- [x] De Coster and Heimer
+	- [x] D'Cruz
+- [ ] Revision
+	- [ ] Create Obsidian Entries
+		- [ ] Kirk-Provencher
+		- [ ] Winstok and Strauss
+		- [ ] De Coster and Heimer
+		- [ ] D'Cruz
+	- [ ] Quiz

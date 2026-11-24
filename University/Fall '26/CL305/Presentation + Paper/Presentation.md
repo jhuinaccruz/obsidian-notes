@@ -2,7 +2,7 @@
 Created: 11/12/26
 Kind: Plan
 Domain: Classics
-Last Updated: 11/12/26
+Last Updated: 11/18/26
 Project: Monster-A-Thon
 Subproject: Presentation
 Action: Revise
@@ -27,12 +27,24 @@ Action: Revise
 	- *Article*: Scholar, John. Year. "Title of Article." Journal Name volume number: page range.
 	- *Chapter in Edited Volume*: Scholar, John. Year. "Title of Chapter." In Jane Editor (ed.), Title of Edited Volume, page range. City of Publication and/or Publisher.
 	- *Book*: Scholar, John. Year. Title of Book. City of Publication and/or Publisher.
+Nikolaev
 ## Structure
-- Introduction (why is this topic interesting?)
-- Etymology of the characters
-- Io and Argus story
-- Deviations
-	- Story
-	- Art
-- Rationalization/Interpretations
-- Vision for essay?
+- ~~Introduction (why is this topic interesting?)~~
+- Argus (3 minutes)
+	- Etymology (Argus + Panoptes)
+	- Lineage
+	- Argus vs Argus?
+	- Physiology
+		- Change throughout time
+- Io (3 minutes)
+	- Etymology
+	- Lineage
+	- Associated with Isis?
+		- Physiology
+- Io and Argus story (5 minutes)
+	- Nuances/Changes throughout time
+- Art of Note (~2 Minutes)
+	- Especially Io as a standalone character
+- Rationalization/Interpretations (~1.5 minutes)
+- Further threads to follow up upon? (~30 sec)
+- Further Readings + Resources
