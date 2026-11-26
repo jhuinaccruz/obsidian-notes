@@ -41,3 +41,6 @@ __aug7#9__:
 
 __7#9__:
 - im7/3 (can be also played as a min7)
+
+__6/9__:
+- bviadd11

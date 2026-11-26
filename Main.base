@@ -1,6 +1,9 @@
 views:
   - type: table
     name: View
+    groupBy:
+      property: file.folder
+      direction: ASC
     sort:
       - property: file.name
         direction: DESC

@@ -1,35 +1,29 @@
-```contributionGraph
-title: Contributions
-graphType: default
-dateRangeValue: 180
-dateRangeType: LATEST_DAYS
-startOfWeek: 0
-showCellRuleIndicators: true
-titleStyle:
-  textAlign: left
-  fontSize: 15px
-  fontWeight: normal
-dataSource:
-  type: PAGE
-  value: ""
-  dateField:
-    formatType: moment
-fillTheScreen: false
-enableMainContainerShadow: false
-cellStyleRules: []
-
-```
 ## School
 - [ ] CL305
 	- [ ] Essay
-		- [ ] 
-	- [ ] Research
-		- [ ] Io
-			- [ ] Find more sources
+		- [ ] Revise notes
+		- [ ] 2500 + 3000 words
+	- [ ] Monster-a-Thon responses
 - [ ] PS472
-	- [ ] Quiz Prep
-		- [ ] Review Readings
-		- [ ] Add entries into Obsidian
-		- [ ] Review
+	- [ ] Essay
 - [ ] PS473
 	- [ ] Catch up on readings/notes
+	- [ ] Obsidian Index readings
+- [ ] MA415
+	- [ ] Clean up format
+	- [ ] Fix models
+- [ ] DS310
+	- [ ] Catch up on lectures
+		- [x] Recovery + Logging I + II
+		- [ ] Data Warehousing/OLAP I + II
+		- [ ] Distributed Databases and Replication I + II
+		- [ ] MapReduce
+		- [ ] NoSQL I + II
+## Life
+- [ ] LMT
+	- [ ] Me Gustas Mucho
+	- [ ] Hermoso Carino
+	- [ ] Son(es)
+- [ ] Obsidian
+	- [ ] Figure out homepage
+	- [ ] Revise [[Organizing Obsidian Notes|Note structure]]
